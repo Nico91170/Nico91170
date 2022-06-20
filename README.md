@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nico91170&label=Profile%20views&color=0e75b6&style=flat" alt="nico91170" /> </p>
 <p align="center">
-    <img align="center" src="">
+    <img align="center" src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif">
 </p>
 
 - 🌱 Actuellement, notamment grâce à ma formation, j'apprends plusieurs langages de programmation et me sers de logiciels: **HTML5; CSS3; JAVASCRIPT; PHP7; GIT; BOOTSTRAP; MYSQL; VS CODE; ADOBE PHOTOSHOP; WORDPRESS**
