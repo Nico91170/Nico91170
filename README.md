@@ -2,12 +2,11 @@
 <h3 align="center">Je suis un Jeune Développeur passionné par le monde de l'Informatique et du Jeu Vidéo.</h3>
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;GAMER">
-    
-    <p align="center">
-    <img align="center" src="[https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nico91170&label=Profile%20views&color=0e75b6&style=flat" alt="nico91170" /> </p>
+<p align="center">
+    <img align="center" src="">
+</p>
 
 - 🌱 Actuellement, notamment grâce à ma formation, j'apprends plusieurs langages de programmation et me sers de logiciels: **HTML5; CSS3; JAVASCRIPT; PHP7; GIT; BOOTSTRAP; MYSQL; VS CODE; ADOBE PHOTOSHOP; WORDPRESS**
 
