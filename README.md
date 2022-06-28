@@ -14,7 +14,7 @@
 
 - 📫 Pour me joindre voici mon e-mail: **nicolas.piresdejesus91170@gmail.com**
 
-- 📄 Mes expériences Je suis actuellement en formation certifiante Développeur Web à l'école Doranco, apès cette formation je souhaite poursuivre mon parcours avec idéalement un Bachelor +2 Développeur Full-Stack ou un BTS Services Informatiques aux Organisations.
+- 📄 Mes expériences: Je suis actuellement en formation certifiante Développeur Web à l'école Doranco, apès cette formation je souhaite poursuivre mon parcours avec idéalement un Bachelor +2 Développeur Full-Stack ou un BTS Services Informatiques aux Organisations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
