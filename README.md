@@ -8,13 +8,13 @@
     <img align="center" src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif">
 </p>
 
-- 🌱 Actuellement, notamment grâce à ma formation, j'apprends plusieurs langages de programmation et me sers de logiciels: **HTML5; CSS3; JAVASCRIPT; PHP7; GIT; BOOTSTRAP; MYSQL; VS CODE; ADOBE PHOTOSHOP; WORDPRESS**
+- 🌱 Notamment grâce à ma formation, j'ai appris plusieurs langages de programmation mais aussi j'ai appris à servir de certains logiciels: **HTML5; CSS3; JAVASCRIPT; PHP7; GIT; BOOTSTRAP; MYSQL; VS CODE; ADOBE PHOTOSHOP; WORDPRESS**
 
 - 👨‍💻 Certains projet seront disponible avec mon portfolio qui est en cours de développement [...]
 
 - 📫 Pour me joindre voici mon e-mail: **nicolas.piresdejesus91170@gmail.com**
 
-- 📄 Mes expériences: Je suis actuellement en formation certifiante Développeur Web à l'école Doranco, apès cette formation je souhaite poursuivre mon parcours avec idéalement un Bachelor +2 Développeur Full-Stack ou un BTS Services Informatiques aux Organisations.
+- 📄 Mes expériences: Je suis actuellement en BTS Services Informatiques aux Organisations au Lycée parc Vilgénis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
