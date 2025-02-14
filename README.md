@@ -8,13 +8,13 @@
     <img align="center" src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif">
 </p>
 
-- 🌱 Notamment grâce à ma formation, j'ai appris plusieurs langages de programmation mais aussi j'ai appris à servir de certains logiciels: **HTML5; CSS3; JAVASCRIPT; PHP7; GIT; BOOTSTRAP; MYSQL; VS CODE; ADOBE PHOTOSHOP; WORDPRESS**
+- 🌱 Je suis un jeune développeur informatique passionné et talentueux, avec de solides formations et des expériences professionnelles significatives. Mon enthousiasme, ma polyvalence et mon engagement font de moi un candidat prêt à relever de nouveaux défis et à contribuer positivement à tout projet auquel je participe, dans le but ultime de réaliser mon rêve de devenir Développeur de Jeux Vidéo.
 
 - 👨‍💻 Certains projet seront disponible avec mon portfolio qui est en cours de développement [...]
 
 - 📫 Pour me joindre voici mon e-mail: **nicolas.piresdejesus91170@gmail.com**
 
-- 📄 Mes expériences: Je suis actuellement en BTS Services Informatiques aux Organisations au Lycée parc Vilgénis.
+- 📄 Mes expériences: Actuellement Alternant Développeur Full-Stack chez ICMAAE en BTS SIO SLAM.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
