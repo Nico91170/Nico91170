@@ -5,33 +5,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=500&lines=🚀+Développeur+Full+Stack;🎮+Créateur+Passionné+de+Jeux+Vidéo;🔧+Technophile+et+Curieux;👾+Fan+de+Unity+%26+Unreal;🌐+Toujours+prêt+à+coder+!" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   <img src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif" width="300px" alt="Gaming Workspace" />
 </p>
-
----
 
 ## 🕹️ À propos de moi
 
 🎯 **Nicolas Pires De Jesus**, Alternant Développeur Full Stack | BTS SIO SLAM  
 
-💻 Spécialisé dans le développement web moderne, la cybersécurité et l'intégration de solutions collaboratives. Actuellement chez [ICMAAE](https://www.icmaae.fr), je travaille sur des plateformes sécurisées (Nextcloud, Rocketchat, Keycloak) et des automatisations innovantes.  
+💻 Je conçois des applications web modernes et solutions sécurisées chez [ICMAAE](https://www.icmaae.fr) avec React, Node.js, Docker et Keycloak.  
 
-🎮 Fan inconditionnel de jeux vidéo, je développe également des projets en **Unity 3D** et **Unreal Engine**, combinant mes passions pour le code et l’univers gaming.  
-
-🌟 Je crois en l'importance de l'innovation, de la créativité et du dépassement de soi à travers la tech.
+🎮 En parallèle, je développe des projets en **Unity 3D** et **Unreal Engine**, nourrissant ma passion pour la création interactive.
 
 ---
 
 ## 🛠️ Stack & Compétences
 
-| 💻 Front-End               | 🔧 Back-End                | ☁️ DevOps / Systèmes        | 🎮 Game Dev & Créa           |
-|----------------------------|----------------------------|-----------------------------|-------------------------------|
-| HTML, CSS, Tailwind        | Node.js, PHP, Python, C#   | Docker, Nginx, Ubuntu, n8n  | Unity 3D, Unreal Engine 5     |
-| React.js, Next.js, Angular | Django REST, .NET, Java    | Keycloak (SSO), OpenLDAP     | Blender, Figma, Photoshop     |
-| jQuery, AJAX, WordPress    | SQL Server, MySQL, PostgreSQL | GitHub, CI/CD, automatisations | Arduino IDE, Design interactif |
+| 💻 Front‑End | 🗄️ Back‑End | ☁️ DevOps & Sécurité | 🎮 Game Dev & Créa |
+|-------------|-------------|----------------------|--------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netcore/netcore-original.svg" alt=".NET Core" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keycloak/keycloak-original.svg" alt="Keycloak" width="28"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="28"/> |
 
 ---
 
@@ -52,33 +44,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=radical&hide_border=true" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=radical&hide_border=true" alt="Top Langues" />
 </p>
 
 ---
 
-## 🎮 Projets Gaming & Tech
+## 🎮 Projets & Gaming
 
-🚧 *En cours* :  
-✅ Développement d’une plateforme collaborative sécurisée chez ICMAAE  
-✅ Projets personnels avec **Unity 3D** et publication mobile  
-✅ Expérimentations sur **Unreal Engine 5** pour jeux immersifs  
-✅ Portfolio web full responsive : [portfolio-nicolas-lyart.vercel.app](https://portfolio-nicolas-lyart.vercel.app)  
-
----
-
-## 👾 Fun & Dev : Pourquoi coder et jouer vont ensemble
-
-Parce que le code est un jeu d’esprit…  
-Et que la création d’univers virtuels est un terrain d’expression sans limite.
-
-**Mon objectif** : Allier mes compétences techniques, ma rigueur de développeur et ma passion du jeu vidéo pour concevoir des solutions innovantes, qu'elles soient web, mobiles ou interactives.
+- 🔐 Plateforme collaborative sécurisée (ICMAAE)  
+- 🎮 Projets Unity 3D pour mobile & PC  
+- 🚀 Exploration Unreal Engine 5  
+- 🌐 Portfolio Full Stack interactif : [portfolio-nicolas-lyart.vercel.app](https://portfolio-nicolas-lyart.vercel.app)
 
 ---
 
-## 🤝 Recommandations
+## 🤝 Recommandation
 
-_"Nicolas s'est rapidement intégré, a montré de l'autonomie et beaucoup d'implication sur nos projets techniques."_  
-— *Baptiste Polvé*, CTO chez Snowpack | Expert Cybersécurité
-
----
+> *“Nicolas s'est rapidement intégré, a montré de l'autonomie et beaucoup d'implication sur nos projets techniques.”*  
+> — *Baptiste Polvé, CTO chez Snowpack*
