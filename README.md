@@ -1,32 +1,76 @@
-<h1 align="center">Salut 👋, Je suis Nicolas</h1>
-<h3 align="center">Je suis un Jeune Développeur passionné par le monde de l'Informatique et du Jeu Vidéo.</h3>
-<p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=fullStack+And+Game+Developer;GAMER">
+<h1 align="center">👨🏻‍💻 Salut, je suis Nicolas</h1>
+<h3 align="center">Développeur Full Stack | Passionné par le Web et les Jeux Vidéo 🎮 | Alternant Bac+3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nico91170&label=Profile%20views&color=0e75b6&style=flat" alt="nico91170" /> </p>
 <p align="center">
-    <img align="center" src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1ED760&center=true&vCenter=true&multiline=true&width=500&lines=Full+Stack+Developer;Gamer+et+Créatif;Toujours+prêt+à+relever+de+nouveaux+d%C3%A9fis;Bienvenue+sur+mon+GitHub!" alt="Typing SVG" />
 </p>
 
-- 🌱 Je suis un jeune développeur informatique passionné et talentueux, avec de solides formations et des expériences professionnelles significatives. Mon enthousiasme, ma polyvalence et mon engagement font de moi un candidat prêt à relever de nouveaux défis et à contribuer positivement à tout projet auquel je participe, dans le but ultime de réaliser mon rêve de devenir Développeur de Jeux Vidéo.
+---
 
-- 👨‍💻 Certains projet seront disponible avec mon portfolio qui est en cours de développement [...]
+<p align="center">
+  <img src="https://github.com/Nico91170/Nico91170/blob/main/bedroom.gif" width="300px" alt="Workspace" />
+</p>
 
-- 📫 Pour me joindre voici mon e-mail: **nicolas.piresdejesus91170@gmail.com**
+---
 
-- 📄 Mes expériences: Actuellement Alternant Développeur Full-Stack chez ICMAAE en BTS SIO SLAM.
+## 🌟 À propos de moi
 
-<h3 align="left">Connect with me:</h3>
+🎯 Je suis **Nicolas Pires De Jesus**, alternant Développeur Full Stack chez [ICMAAE](https://www.icmaae.fr), en BTS SIO option SLAM, passionné par le développement web, la cybersécurité et l'univers du jeu vidéo.  
+
+💻 Mes compétences couvrent le développement Front-End (React, Next.js, Angular), Back-End (Node.js, PHP, Django REST) et l'infrastructure (Docker, Keycloak, Nginx).  
+
+🚀 Mon objectif : Concevoir des applications innovantes, sécurisées et accessibles, tout en développant mes projets liés au jeu vidéo via Unity et Unreal Engine.  
+
+🎮 Passionné de gaming et de technologies créatives, je crois que le code et la créativité sont indissociables.
+
+---
+
+## 🛠️ Mes Compétences
+
+| 🖥️ Front-End             | 🗄️ Back-End              | ☁️ DevOps & Sécurité           | 🎮 Game & Créa               |
+|--------------------------|--------------------------|---------------------------------|------------------------------|
+| HTML, CSS, Tailwind      | Node.js, PHP, Python, C# | Docker, Nginx, Ubuntu, n8n     | Unity 3D, Unreal Engine, Blender |
+| React.js, Next.js, Angular | Django REST, .NET, Java | Keycloak (SSO), OpenLDAP       | Figma, Photoshop, SolidWorks |
+| jQuery, AJAX, WordPress  | SQL Server, MySQL, PostgreSQL | Git, CI/CD, automatisations | Arduino IDE, projets créatifs |
+
+---
+
+## 🔗 Mes liens importants
+
 <p align="left">
-<a href="https://dev.to/https://dev.to/nico91170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nico91170" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-pires-de-jesus-46685521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-pires-de-jesus-46685521a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19374378/nico91170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19374378/nico91170" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCabULAQdzsZiOzHTcgexVeQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucabulaqdzsziozhtcgexveq/featured" height="30" width="40" /></a>
-<a href="https://discord.gg/Shanks91#5741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shanks91#5741" height="30" width="40" /></a>
+<a href="https://portfolio-nicolas-lyart.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231ED760?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nicolas-pires-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nico91170&show_icons=true&locale=en&layout=compact" alt="nico91170" /></p>
+## 📊 Mes Statistiques GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight&hide_title=true" alt="Stats GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" alt="Top Langues" />
+</p>
+
+---
+
+## 🎮 Projets Gaming et Créatifs
+
+🚧 En cours :  
+- Développement de projets 3D avec **Unity** (Mobile & PC)  
+- Formation avancée Unreal Engine  
+- Création d'expériences interactives liant web et jeu vidéo  
+
+✨ [Voir mon Portfolio](https://portfolio-nicolas-lyart.vercel.app/) pour suivre mes projets en temps réel !
+
+---
+
+## 🤝 Recommandations
+
+_"Nicolas a su s'intégrer rapidement et faire preuve d'autonomie pour réaliser les tâches demandées. C'est quelqu'un d'investi et qui sait s'appliquer."_  
+— *Baptiste Polvé*, Co-fondateur & CTO chez Snowpack | Expert Cybersécurité
+
+---
