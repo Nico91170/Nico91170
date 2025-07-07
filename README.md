@@ -51,6 +51,10 @@
 | Développement d’une plateforme web en réponse à un cahier des charges spécifique, avec adaptation fonctionnelle selon les besoins du client.            |Stagiaire chez Les Apprentis Dev (2022)  | WordPress, PHP, CSS                     |
 
 ---
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdkbHUyZnI0Z2V0cmNyYzQzN295cHo2ZTdqNWMyOXk4cms0Z2U4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="developer" width="720"/>
+</p>
+---
 
 ## 📊 Stats du héros
 
