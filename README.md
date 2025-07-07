@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nicolaspiresdejesus&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NicolasPiresDeJesus&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -52,13 +52,20 @@
 
 ## 📊 Mon activité GitHub
 
+⚠️ **Important :** Veille à bien respecter la casse exacte de ton pseudo GitHub dans les liens. Les générateurs d'images sont sensibles aux majuscules/minuscules.
+
+> Si ton pseudo est bien `NicolasPiresDeJesus`, utilise-le tel quel, sinon adapte les liens ci-dessous avec ton vrai identifiant.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolaspiresdejesus&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" alt="Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolaspiresdejesus&theme=tokyonight" alt="Streak" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPiresDeJesus&show_icons=true&theme=tokyonight" alt="Stats GitHub" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiresdejesus&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NicolasPiresDeJesus&theme=tokyonight" alt="Streak GitHub" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPiresDeJesus&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
 </p>
 
 ---
