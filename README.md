@@ -90,7 +90,7 @@
 ## 🌐 Carte mondiale des visiteurs
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-3d-contrib?username=Nico91170&theme=tokyonight" alt="Carte 3D Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico91170&theme=tokyonight" alt="Résumé Visiteurs"/>
 </p>
 
 <p align="center">
