@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮🕹️ <span style="<img src="https://fontmeme.com/temporary/9904387ad8bb5b5d08dd1c485267bd66.png";">WELCOME LES AMIS</span> 🕹️🎮
+  🎮🕹️ <span WELCOME LES AMIS</span> 🕹️🎮
 </h1>
 
 <p align="center">
