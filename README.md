@@ -52,20 +52,16 @@
 
 ## 📊 Mon activité GitHub
 
-⚠️ **Important :** Veille à bien respecter la casse exacte de ton pseudo GitHub dans les liens. Les générateurs d'images sont sensibles aux majuscules/minuscules.
-
-> Si ton pseudo est bien `NicolasPiresDeJesus`, utilise-le tel quel, sinon adapte les liens ci-dessous avec ton vrai identifiant.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPiresDeJesus&show_icons=true&theme=tokyonight" alt="Stats GitHub" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight" alt="Stats GitHub" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NicolasPiresDeJesus&theme=tokyonight" alt="Streak GitHub" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico91170&theme=tokyonight" alt="Streak GitHub" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPiresDeJesus&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
 </p>
 
 ---
