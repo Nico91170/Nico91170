@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="720"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Codeur+Pixel+par+Passion+%F0%9F%94%A5;Toujours+en+mode+debug+%F0%9F%94%AD"/>
 </p>
 
