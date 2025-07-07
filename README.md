@@ -25,7 +25,7 @@
 ## 🧰 Inventaire technique
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,keycloak,ps,npm,bootstrap" />
+<img src="https://skillicons.dev/icons?i=unity,html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,ps,npm,bootstrap" />
 </div>
 
 🧠 **Front-End** : React ⚛️, Next.js 🚀, Angular 🧮, Tailwind 🌪️, Figma 🎨  
