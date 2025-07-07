@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Hero+%F0%9F%AA%96;Fan+de+cybers%C3%A9curit%C3%A9+et+automation;Geek+%26+codeur+la+nuit+!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Hero+%F0%9F%AA%96;Geek+%26+codeur+la+nuit+!"/>
 </p>
 
 <p align="center">
   <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-critical?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/nicolas-pires-de-jesus"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin"/></a>
   <img src="https://komarev.com/ghpvc/?username=Nico91170&style=for-the-badge" alt="Profile Views"/>
 </p>
 
