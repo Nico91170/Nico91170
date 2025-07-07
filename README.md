@@ -58,8 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight" width="420"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico91170&theme=tokyonight" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" width="420"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight"/>
 </p>
 
 ---
