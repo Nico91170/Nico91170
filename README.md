@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="250" src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp"  />
+  <img height="250" width="500" src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp"  />
 </div>
 
 Here are some ideas to get you started:
