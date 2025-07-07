@@ -50,16 +50,15 @@
 
 ---
 
-## 📊 Stats GitHub en direct
+## 📊 Mon activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolaspiresdejesus&show_icons=true&theme=tokyonight&hide_rank=false" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolaspiresdejesus&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" alt="Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolaspiresdejesus&theme=tokyonight" alt="Streak" width="420"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolaspiresdejesus&theme=tokyonight" alt="Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaspiresdejesus&theme=tokyonight" alt="Résumé"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspiresdejesus&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
 </p>
 
 ---
