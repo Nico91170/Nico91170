@@ -46,9 +46,9 @@
 | 🎯 Mission                        | 🏢 Guilde                 | ⚒️ Armes utilisées                      |
 |----------------------------------|---------------------------|-----------------------------------------|
 | Développement d’un tableau de bord collaboratif avec Next.js, intégrant des services comme Nextcloud, Gitea ou Rocket.Chat. Mise en place d’un SSO centralisé via Keycloak et OpenLDAP, avec une gestion avancée des rôles via JWT. Configuration sécurisée avec Nginx et HTTPS, et contrôle d’accès dynamique. Automatisation de workflows interservices via n8n (webhooks, API, triggers personnalisés).  | ICMAAE (2024 - 2025)     | Next.js, Keycloak, n8n, Nginx           |
-| Front React & UX Design         | Snowpack (2023 - 2024)    | React.js, Tailwind, Figma               |
-| Migration Angular 7 ➡️ 16        | Mutuaide Assistance       | Angular 16, PrimeNG                     |
-| Site WordPress & SEO            | Les Apprentis Dev (2022)  | WordPress, PHP, CSS                     |
+| Montée en compétences sur React.js avec amélioration d'une application de démonstration basée sur Snowpack. Contribution à l’optimisation du site officiel et participation à son administration technique.         | Snowpack (2023 - 2024)    | React.js, Tailwind, Figma               |
+| Migration d’une interface Angular 7 vers Angular 16, avec intégration des principes modernes d’architecture Angular. Consommation d’API REST, refonte de l’interface utilisateur avec NG Prime, et résolution de bugs via débogage avancé.        | Mutuaide Assistance       | Angular 16, PrimeNG                     |
+| Développement d’une plateforme web en réponse à un cahier des charges spécifique, avec adaptation fonctionnelle selon les besoins du client.            | Les Apprentis Dev (2022)  | WordPress, PHP, CSS                     |
 
 ---
 
