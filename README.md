@@ -45,7 +45,7 @@
 
 | 🎯 Mission                        | 🏢 Guilde                 | ⚒️ Armes utilisées                      |
 |----------------------------------|---------------------------|-----------------------------------------|
-| Dashboard collaboratif sécurisé  | ICMAAE (2024 - 2025)     | Next.js, Keycloak, n8n, Nginx           |
+| Développement d’un tableau de bord collaboratif avec Next.js, intégrant des services comme Nextcloud, Gitea ou Rocket.Chat. Mise en place d’un SSO centralisé via Keycloak et OpenLDAP, avec une gestion avancée des rôles via JWT. Configuration sécurisée avec Nginx et HTTPS, et contrôle d’accès dynamique. Automatisation de workflows interservices via n8n (webhooks, API, triggers personnalisés).  | ICMAAE (2024 - 2025)     | Next.js, Keycloak, n8n, Nginx           |
 | Front React & UX Design         | Snowpack (2023 - 2024)    | React.js, Tailwind, Figma               |
 | Migration Angular 7 ➡️ 16        | Mutuaide Assistance       | Angular 16, PrimeNG                     |
 | Site WordPress & SEO            | Les Apprentis Dev (2022)  | WordPress, PHP, CSS                     |
