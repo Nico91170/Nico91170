@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮🕹️ <span WELCOME LES AMIS</span> 🕹️🎮
+  🎮🕹️ <span> WELCOME LES AMIS</span> 🕹️🎮
 </h1>
 
 <p align="center">
