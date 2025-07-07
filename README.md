@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Nico91170/Nico91170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="250" src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp"  />
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nico91170/nico91170/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nico91170/nico91170/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nico91170/nico91170/output/pacman-contribution-graph.svg">
+</picture>
