@@ -1,58 +1,72 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# ✨ Bienvenue dans mon espace GitHub !
 
 <p align="center">
   <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="300"/>
 </p>
 
-## 🚀 À propos de moi
-
-Je suis **Nicolas Pires De Jesus**, un jeune développeur passionné par le développement **Full Stack**, actuellement en alternance Bac +3 dans le domaine du développement informatique.
-
-🎯 Mon objectif : Concevoir des applications performantes, ergonomiques et sécurisées en alliant Front-End et Back-End, avec une forte sensibilité pour la cybersécurité et l'optimisation des systèmes.
-
-## 🧑‍💻 Compétences principales
-
-**Front-End :**
-- HTML, CSS, JavaScript, TypeScript
-- React.js, Next.js, Angular
-- TailwindCSS, Figma, jQuery, AJAX
-
-**Back-End :**
-- Node.js, PHP, C#, Python, Java
-- Django REST, .NET, Windows Forms, WPF
-
-**Bases de données :**
-- MySQL, PostgreSQL, SQL Server, Access
-
-**DevOps & Outils :**
-- Docker, Nginx, Git, Ubuntu, Keycloak, n8n
-
-**Méthodologies :**
-- Scrum, POO, Tests unitaires, UML, SysML
-
-## 🎓 Parcours
-
-- 🎓 BTS SIO Option SLAM (Lycée Parc de Vilgénis)
-- 🎓 Formation Développeur Web (Doranco)
-- 🎓 Bac STI2D (Lycée Gaspard Monge)
-
-## 🏢 Expériences
-
-- **Alternant Développeur Full Stack** | ICMAAE (2024-2025)
-  - Développement d'un tableau de bord intégré (Next.js)
-  - Intégration SSO Keycloak / OpenLDAP / Nginx
-  - Automatisation de workflows via n8n
-
-- **Développeur Front-End React.js** | Snowpack (2023-2024)
-- **Développeur Angular** | Mutuaide Assistance (2023)
-- **Développeur WordPress** | Les Apprentis Dev (2022)
-
-## 📫 Me contacter
-
-- ✉️ nicolas.piresdejesus91170@gmail.com
-- 🌍 Île-de-France
-- 🔗 [LinkedIn](https://www.linkedin.com/in/baptiste-polve)
+<h3 align="center">🚀 Développeur Full Stack | Passionné par le code moderne et l'innovation</h3>
+<p align="center">
+  <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-red" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nicolaspiresdejesus&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
-*Merci de visiter mon profil ! N'hésitez pas à me suivre ou à me contacter pour échanger.* ✨
+## 🌟 À propos de moi
+
+💻 Développeur en alternance Bac +3, je navigue entre **Front-End interactif**, **Back-End robuste**, et **sécurité intégrée**. J'adore transformer les idées en produits concrets et dynamiques.
+
+🧩 Toujours curieux, j'explore les dernières technos et je développe des solutions où **performance**, **ergonomie** et **automatisation** sont au rendez-vous.
+
+---
+
+## 🔥 Stack & Outils préférés
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,php,nodejs,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu" />
+</div>
+
+---
+
+## 🛠️ Ce que je construis actuellement
+
+- 🔧 **Dashboard Next.js** avec intégration SSO (Keycloak, OpenLDAP) — *ICMAAE*
+- 🔗 **Automatisation de workflows** via n8n pour connecter des services collaboratifs
+- 🛡️ **Sécurisation d'accès** avec Nginx + claims JWT personnalisés
+
+---
+
+## 📈 Mon GitHub en action
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolaspiresdejesus&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolaspiresdejesus&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Parcours & Expériences clés
+
+| Année            | Mission                                      | Stack / Techs                  |
+|-----------------|----------------------------------------------|---------------------------------|
+| 2024 - 2025     | **ICMAAE** - Développeur Full Stack         | Next.js, Keycloak, n8n, Nginx  |
+| 2023 - 2024     | **Snowpack** - Front-End React.js           | React.js, Tailwind, Figma      |
+| 2023            | **Mutuaide Assistance** - Migration Angular | Angular 16, Ng Prime           |
+| 2022            | **Les Apprentis Dev** - WordPress Dev       | WordPress, PHP, CSS            |
+
+---
+
+## 💌 Me contacter
+
+- 📫 **Mail :** nicolas.piresdejesus91170@gmail.com  
+- 🌍 **Localisation :** Île-de-France  
+- 🤝 **LinkedIn :** [Voir mon profil](https://www.linkedin.com/in/baptiste-polve)
+
+---
+
+<p align="center">
+✨ *Merci d'être passé sur mon profil, n'hésite pas à me suivre, collaborer ou discuter tech !* ✨
+</p>
