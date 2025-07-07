@@ -1,7 +1,7 @@
-# 👾 Bienvenue, Hacker du Code !
+# 👾 Bienvenue dans mon univers !
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="320"/>
+  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="650"/>
 </p>
 
 <p align="center">
