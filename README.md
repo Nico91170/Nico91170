@@ -1,112 +1,107 @@
-# 🚀 Bienvenue sur mon GitHub interactif !
+# 🎮 Bienvenue, aventurier du code !
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="320"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/pixel-shanks-one-piece.gif" width="320" alt="Shanks Pixel" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionn%C3%A9+de+Tech+et+d'Innovation;Toujours+pr%C3%AAt+%C3%A0+relever+des+d%C3%A9fis+!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%3A+Nicolas+%E2%9C%94%EF%B8%8F;Lvl+99+en+Passion+%26+Curiosit%C3%A9+%F0%9F%92%AB;Toujours+en+qu%C3%AAte+de+nouveaux+challenges+%F0%9F%92%A1" />
 </p>
 
 <p align="center">
-  <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nico91170&style=for-the-badge" alt="Profile Views"/>
+  <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Mail-Niveau%20Secret-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Qu%C3%AAte%20Active-blue?style=for-the-badge&logo=linkedin"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nico91170&style=for-the-badge&label=Visiteurs"/>
 </p>
 
 ---
 
-## ✨ À propos de moi
+## 🧙‍♂️ À propos du héros
 
-🎨 Développeur Full Stack passionné par la création de solutions modernes, ergonomiques et sécurisées. Mon ADN : curiosité, autonomie et amour du travail bien fait.
+🛡️ Développeur Full Stack passionné, maniant les frameworks comme des armes magiques. 
 
-🔧 Je transforme les idées en applications concrètes, en m'appuyant sur un stack technique à la pointe.
+⚔️ En mission pour transformer des idées folles en applications robustes, designées avec soin.
 
-🌍 Localisé en Île-de-France — Ouvert aux collaborations tech partout dans le monde !
+🌍 Originaire d’Île-de-France, disponible pour des quêtes tech à travers le royaume.
 
-💡 Fun fact : Grand amateur de défis techniques, de cybersécurité et d'automatisation.
+💬 Langues : JavaScript, TypeScript, Python, C#, PHP... et un peu d'elfique (ou regex).
 
 ---
 
-## 💻 Compétences principales
+## 🧰 Inventaire de compétences
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,keycloak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,keycloak" />
 </div>
 
-🚀 **Front-End :** React, Next.js, Angular, Tailwind, Figma  
-🛠️ **Back-End :** Node.js, Django, .NET, C#, PHP, Python  
-🗄️ **Bases de données :** MySQL, PostgreSQL, SQL Server  
-⚙️ **DevOps & Sécurité :** Docker, Nginx, Keycloak, SSO, Automatisation n8n
+🎨 **Front-End :** React, Next.js, Angular, Tailwind, Figma  
+🔮 **Back-End :** Node.js, Django, .NET, C#, PHP, Python  
+📦 **Bdd & Données :** MySQL, PostgreSQL, SQL Server  
+🛡️ **DevOps / Sécurité :** Docker, Nginx, Keycloak, n8n, SSO
 
 ---
 
-## 🎯 Certifications et spécialisations
+## 🧾 Titres & Spécialisations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js%20Expert-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/React%20Developer-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9%20Sensibilis%C3%A9-green?style=for-the-badge&logo=keycloak"/>
-  <img src="https://img.shields.io/badge/Automatisation%20n8n-orange?style=for-the-badge&logo=n8n"/>
-</p>
-
----
-
-## 🏆 Projets & Missions marquantes
-
-| 🚀 Projet                        | 🏢 Structure            | 🛠️ Technologies                  |
-|---------------------------------|------------------------|-----------------------------------|
-| Dashboard collaboratif sécurisé | ICMAAE (2024 - 2025)   | Next.js, Keycloak, n8n, Nginx     |
-| Front React & amélioration UX   | Snowpack (2023 - 2024) | React.js, Tailwind, Figma         |
-| Migration Angular 7 ➡️ 16       | Mutuaide Assistance     | Angular 16, Ng Prime              |
-| Développement site WordPress    | Les Apprentis Dev (2022)| WordPress, PHP, CSS               |
-
----
-
-## 📊 Mon activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight" alt="Stats GitHub" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico91170&theme=tokyonight" alt="Streak GitHub" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophées GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight" alt="Stats Contributions"/>
+  <img src="https://img.shields.io/badge/Next.js-Master-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Keycloak-Cyber+Sentinel-green?style=for-the-badge&logo=keycloak"/>
+  <img src="https://img.shields.io/badge/n8n-Automagicien-orange?style=for-the-badge&logo=n8n"/>
 </p>
 
 ---
 
-## 🌐 Carte mondiale des visiteurs
+## 🗺️ Quêtes terminées (Projets)
+
+| 🏹 Mission                       | 🏰 Guilde/Client           | ⚙️ Technologies                    |
+|----------------------------------|----------------------------|-----------------------------------|
+| Dashboard sécurisé collaboratif  | ICMAAE (2024-2025)        | Next.js, Keycloak, n8n, Nginx      |
+| Refonte UX avec React            | Snowpack (2023-2024)      | React, Tailwind, Figma            |
+| Migration Angular 7 → 16         | Mutuaide Assistance        | Angular 16, Ng Prime              |
+| Site WordPress vitrine           | Les Apprentis Dev (2022)  | WordPress, PHP, CSS              |
+
+---
+
+## 📈 Stats du héros
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico91170&theme=tokyonight" alt="Résumé Visiteurs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight&title_color=00ff9c&icon_color=ff8c00" width="420" />
 </p>
-
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nico91170.readme" alt="Badge Visiteurs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico91170&theme=tokyonight&ring=ffae00&fire=ffae00" width="420" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" width="420" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Me contacter facilement
+## 🌍 Carte du monde (visiteurs)
 
-📧 **Mail :** [nicolas.piresdejesus91170@gmail.com](mailto:nicolas.piresdejesus91170@gmail.com)  
-🌍 **Basé en :** Île-de-France  
-🔗 **LinkedIn :** [Voir mon profil](https://www.linkedin.com/in/baptiste-polve)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico91170&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nico91170.readme" />
+</p>
+
+---
+
+## 📬 Envoyer un parchemin magique
+
+📧 **Courrier magique :** [nicolas.piresdejesus91170@gmail.com](mailto:nicolas.piresdejesus91170@gmail.com)  
+🗺️ **Camp de base :** Île-de-France  
+🔗 **Portail vers LinkedIn :** [LinkedIn](https://www.linkedin.com/in/baptiste-polve)
 
 ---
 
 <p align="center">
-💡 *Merci d'être passé par ici, que ce soit pour un projet, un échange ou une collab, ma boîte mail est ouverte !* 💡
+✨ *Merci d’avoir visité mon royaume GitHub. Que le code soit avec toi !* ✨
 </p>
