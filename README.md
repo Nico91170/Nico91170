@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/baptiste-polve"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NicolasPiresDeJesus&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nico91170&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -23,6 +23,8 @@
 🔧 Je transforme les idées en applications concrètes, en m'appuyant sur un stack technique à la pointe.
 
 🌍 Localisé en Île-de-France — Ouvert aux collaborations tech partout dans le monde !
+
+💡 Fun fact : Grand amateur de défis techniques, de cybersécurité et d'automatisation.
 
 ---
 
@@ -62,6 +64,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
+</p>
+
+---
+
+## 🎨 Autres visuels interactifs
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophées GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight" alt="Stats Contributions"/>
 </p>
 
 ---
