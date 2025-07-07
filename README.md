@@ -1,105 +1,81 @@
-# 👾 Bienvenue dans mon univers !
+<h1 align="center">
+  🎮🕹️ <span style="font-family:'Press Start 2P', cursive; font-size:32px;">WELCOME TO MY GITHUB QUEST LOG</span> 🕹️🎮
+</h1>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="650"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Hero+%F0%9F%AA%96;Geek+%26+codeur+la+nuit+!"/>
-</p>
-
-<p align="center">
-  <a href="mailto:nicolas.piresdejesus91170@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-critical?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/nicolas-pires-de-jesus"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nico91170&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Codeur+Pixel+par+Passion+%F0%9F%94%A5;Toujours+en+mode+debug+%F0%9F%94%AD"/>
 </p>
 
 ---
 
-## 🎮 À propos du joueur
+## 🧙‍♂️ À propos du héros
 
-🧙‍♂️ **Classe** : Développeur Full Stack – Mage du Front, Guerrier du Back
-
-🌌 **Localisation** : Île-de-France – Disponible pour des quêtes partout sur la map
-
-🔐 **Spécialités** : Cybersécurité, automatisation, intégration SSO, containers dockerisés
-
-⚡ **Skills passifs** : Autonomie, curiosité, amour du code bien stylé
-
-🕹️ **Bonus** : Fan de défis techniques + monde open source
+- 🎨 **Classe** : Développeur Full Stack
+- 🗺️ **Localisation** : Île-de-France (mais toujours prêt pour une quête à distance)
+- 🧠 **Traits** : Curieux, autonome, pixel-perfectionniste
+- 🔐 **Bonus passifs** : Cybersécurité, Automatisation n8n, Auth SSO
+- 🎮 **Fun fact** : Fan de jeux, de défis tech, et d’automatisation magique
 
 ---
 
-## 💾 Compétences de combat
+## 🧰 Inventaire technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,keycloak" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,figma,nodejs,php,python,django,dotnet,cs,java,mysql,postgresql,git,docker,nginx,ubuntu,keycloak" />
 </div>
 
-🧩 **Front-End :** React, Next.js, Angular, Tailwind, Figma  
-🧠 **Back-End :** Node.js, Django, .NET, PHP, C#, Python  
-🧙‍♀️ **Bases de données :** MySQL, PostgreSQL, SQL Server  
-🛡️ **DevOps & Sécurité :** Docker, Nginx, Keycloak, SSO, Automatisation avec n8n
+🧠 **Front-End** : React ⚛️, Next.js 🚀, Angular 🧮, Tailwind 🌪️, Figma 🎨  
+🛠️ **Back-End** : Node.js ⚙️, Django 🐍, .NET 🧱, PHP 🐘, C# 💻  
+📀 **Bases de données** : MySQL, PostgreSQL, SQL Server  
+🔐 **DevOps & Sécu** : Docker 🐳, Nginx 🌐, Keycloak 🛡️, n8n ⚙️
 
 ---
 
-## 📜 Certification débloquée
+## 🧾 Certification débloquée
 
-<p align="center">
-  <a href="https://www.udemy.com/certificate/UC-fb0916d4-dd36-4358-b0d5-0e28124ffbe2/">
-    <img src="https://img.shields.io/badge/Udemy-Certifi%C3%A9-purple?style=for-the-badge&logo=udemy" alt="Certification Udemy"/>
-  </a>
-</p>
-
-**✔️ Unity C# - Créer un jeu de plateforme 2D de A à Z**  
-*Formation complète suivie sur Udemy, avec réalisation d’un jeu vidéo jouable !*
+- 🏅 [Unity : Learn 2D & 3D Game Development](https://www.udemy.com/certificate/UC-fb0916d4-dd36-4358-b0d5-0e28124ffbe2/)
 
 ---
 
-## 🗺️ Quêtes accomplies (projets)
+## 📜 Quêtes principales
 
-| 🧭 Projet                        | 🏰 Client / Structure       | 🧰 Stack utilisé                    |
-|---------------------------------|-----------------------------|------------------------------------|
-| Dashboard sécurisé collaboratif | ICMAAE (2024 - 2025)        | Next.js, Keycloak, n8n, Nginx      |
-| Front React + UX design         | Snowpack (2023 - 2024)      | React, Tailwind, Figma             |
-| Migration Angular 7 ➡️ 16       | Mutuaide Assistance         | Angular 16, PrimeNG                |
-| Site WordPress sur-mesure       | Les Apprentis Dev (2022)    | WordPress, PHP, CSS                |
+| 🎯 Mission                        | 🏢 Guilde                 | ⚒️ Armes utilisées                      |
+|----------------------------------|---------------------------|-----------------------------------------|
+| Dashboard collaboratif sécurisé  | ICMAAE (2024 - 2025)     | Next.js, Keycloak, n8n, Nginx           |
+| Front React & UX Design         | Snowpack (2023 - 2024)    | React.js, Tailwind, Figma               |
+| Migration Angular 7 ➡️ 16        | Mutuaide Assistance       | Angular 16, PrimeNG                     |
+| Site WordPress & SEO            | Les Apprentis Dev (2022)  | WordPress, PHP, CSS                     |
 
 ---
 
-## 🧠 Stats du héros
+## 📊 Stats du héros
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nico91170&show_icons=true&theme=tokyonight" width="420"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico91170&theme=tokyonight" width="420"/>
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" width="420"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌍 Carte des visiteurs IRL
+## 🗺️ Carte des visiteurs
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nico91170&theme=tokyonight"/>
-</p>
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nico91170.readme"/>
 </p>
 
 ---
 
-## 📬 Rejoindre la guilde
+## 📬 Entrer en contact avec le héros
 
-📧 **Mail :** [nicolas.piresdejesus91170@gmail.com](mailto:nicolas.piresdejesus91170@gmail.com)  
-💼 **LinkedIn :** [Voir mon profil](https://www.linkedin.com/in/baptiste-polve)  
-🌍 **Base :** Île-de-France, France
+📧 **Courrier magique** : [nicolas.piresdejesus91170@gmail.com](mailto:nicolas.piresdejesus91170@gmail.com)  
+🧭 **Guilde pro** : [LinkedIn](https://www.linkedin.com/in/baptiste-polve)
 
 ---
 
 <p align="center">
-🎮 *Merci d’avoir visité mon repaire de code ! Tu veux faire équipe ? Mon cristal de messagerie est ouvert !* 🧙‍♂️
+🧩 *Merci d’avoir consulté mon grimoire GitHub. Reviens pour suivre mes prochaines quêtes ou m’inviter à rejoindre les tiennes !* 🧩
 </p>
