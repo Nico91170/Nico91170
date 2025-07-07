@@ -78,7 +78,7 @@
 ## 📬 Entrer en contact avec le héros
 
 📧 **Courrier magique** : [nicolas.piresdejesus91170@gmail.com](mailto:nicolas.piresdejesus91170@gmail.com)  
-🧭 **Guilde pro** : [LinkedIn](https://www.linkedin.com/in/baptiste-polve)
+🧭 **Guilde pro** : [LinkedIn](https://www.linkedin.com/in/nicolas-pires-de-jesus/)
 
 ---
 
