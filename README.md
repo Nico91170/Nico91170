@@ -1,7 +1,7 @@
 # 👾 Bienvenue, Hacker du Code !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Pixel Hacker" width="300"/>
+  <img src="https://gifdb.com/images/high/shanks-one-piece-hats-off-laughing-loud-71ttils8miq3hxk1.webp" alt="Shanks One Piece" width="320"/>
 </p>
 
 <p align="center">
