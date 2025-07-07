@@ -41,6 +41,17 @@
 
 ---
 
+## 🎯 Certifications et spécialisations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js%20Expert-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React%20Developer-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9%20Sensibilis%C3%A9-green?style=for-the-badge&logo=keycloak"/>
+  <img src="https://img.shields.io/badge/Automatisation%20n8n-orange?style=for-the-badge&logo=n8n"/>
+</p>
+
+---
+
 ## 🏆 Projets & Missions marquantes
 
 | 🚀 Projet                        | 🏢 Structure            | 🛠️ Technologies                  |
@@ -66,14 +77,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico91170&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="420"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nico91170&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophées GitHub"/>
 </p>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Nico91170&theme=tokyonight" alt="Stats Contributions"/>
+</p>
+
+---
+
+## 🌐 Carte mondiale des visiteurs
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-3d-contrib?username=Nico91170&theme=tokyonight" alt="Carte 3D Contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nico91170.readme" alt="Badge Visiteurs"/>
 </p>
 
 ---
