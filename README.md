@@ -53,6 +53,6 @@ Développeur Full Stack en Île-de-France, j’aime concevoir des expériences w
 ---
 
 <p align="center">
-  <i>« Le monde ne s’arrête pas après un rêve. »</i><br />
+  <i>Code, courage et cap vers la prochaine aventure.</i><br />
   <sub>Merci d’être passé à bord — on se retrouve sur la Grand Line !</sub>
 </p>
